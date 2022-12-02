@@ -1,0 +1,11 @@
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\GuessWho\bin\Debug\GuessWho.exe.config
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\GuessWho\bin\Debug\GuessWho.exe
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\GuessWho\bin\Debug\GuessWho.pdb
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\GuessWho\obj\Debug\GuessWho.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\GuessWho\obj\Debug\GuessWho.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\GuessWho\obj\Debug\GuessWho.Form1.resources
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\GuessWho\obj\Debug\GuessWho.Properties.Resources.resources
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\GuessWho\obj\Debug\GuessWho.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\GuessWho\obj\Debug\GuessWho.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\GuessWho\obj\Debug\GuessWho.exe
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\GuessWho\obj\Debug\GuessWho.pdb
